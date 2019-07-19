@@ -1,0 +1,3 @@
+- vim command:
+    - set <keyword> / no<keyword>
+    - `paste`: avoid all auto-formatting if you want to paste something
